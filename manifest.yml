@@ -1,4 +1,4 @@
 applications:
 - name: dreamteam-cloudnativ-videoservice
-  memory:256MB
+  memory: 256MB
   java_buildpack: java_buildpack
